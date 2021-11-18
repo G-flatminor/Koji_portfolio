@@ -1,4 +1,6 @@
-# Koji_portfolio
-Koji project list
+# Koji_Sera_portfolio
 
-## Project1: 
+## process automation
+
+## Project1: Customer Demand Analysis
+### 
